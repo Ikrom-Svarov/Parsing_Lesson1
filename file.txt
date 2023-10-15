@@ -1,0 +1,22 @@
+{"cars": [
+{"name": "Opel Astra, 2008", "price": "405 000 ₽", "description": "1.4 л (90 л.с.), бензин, робот, передний, 196 259 км", "link": "https://moscow.drom.ru/opel/astra/51035893.html"},
+{"name": "Ford Mondeo, 2006", "price": "364 000 ₽", "description": "2.0 л, автомат, 303 767 км", "link": "https://moscow.drom.ru/ford/mondeo/51300723.html"},
+{"name": "Kia Sportage, 2021", "price": "3 810 000 ₽", "description": "2.0 л (184 л.с.), дизель, АКПП, передний, 20 000 км", "link": "https://moscow.drom.ru/kia/sportage/51476295.html"},
+{"name": "Volkswagen Touareg, 2009", "price": "849 000 ₽", "description": "2.5 л (174 л.с.), дизель, АКПП, 4WD, 161 352 км", "link": "https://moscow.drom.ru/volkswagen/touareg/51237087.html"},
+{"name": "Volkswagen Touareg, 2014", "price": "2 299 000 ₽", "description": "3.0 л (204 л.с.), дизель, АКПП, 4WD, 93 258 км", "link": "https://moscow.drom.ru/volkswagen/touareg/51236833.html"},
+{"name": "Mercedes-Benz V-Class, 2017", "price": "3 699 000 ₽", "description": "2.1 л (163 л.с.), дизель, АКПП, 4WD, 104 000 км", "link": "https://moscow.drom.ru/mercedes-benz/v-class/51533683.html"},
+{"name": "Mazda Mazda6, 2011", "price": "899 000 ₽", "description": "2.0 л (147 л.с.), бензин, АКПП, передний, 156 000 км", "link": "https://moscow.drom.ru/mazda/mazda6/51078210.html"}, 
+{"name": "Kia Mohave, 2020", "price": "3 999 000 ₽", "description": "3.0 л (249 л.с.), дизель, АКПП, 4WD, 67 347 км", "link": "https://moscow.drom.ru/kia/mohave/51156616.html"}, 
+{"name": "Hyundai Creta, 2020", "price": "1 849 000 ₽", "description": "2.0 л (149 л.с.), бензин, АКПП, передний, 14 903 км", "link": "https://moscow.drom.ru/hyundai/creta/51517994.html"},
+{"name": "Chevrolet Captiva, 2013", "price": "999 000 ₽", "description": "2.4 л (167 л.с.), бензин, АКПП, 4WD, 126 415 км", "link": "https://moscow.drom.ru/chevrolet/captiva/51544556.html"},
+{"name": "Hyundai Solaris, 2012", "price": "699 000 ₽", "description": "1.6 л (123 л.с.), бензин, АКПП, передний, 146 819 км", "link": "https://moscow.drom.ru/hyundai/solaris/51332039.html"}, 
+{"name": "Volkswagen Amarok, 2011", "price": "1 299 000 ₽", "description": "2.0 л (122 л.с.), дизель, механика, 4WD, 165 377 км", "link": "https://moscow.drom.ru/volkswagen/amarok/51318030.html"}, 
+{"name": "Geely Coolray SX11, 2020", "price": "1 849 000 ₽", "description": "1.5 л (150 л.с.), бензин, робот, передний, 43 158 км", "link": "https://moscow.drom.ru/geely/sx11/51471852.html"},
+{"name": "Land Rover Range Rover Sport, 2013", "price": "1 949 000 ₽", "description": "3.0 л (245 л.с.), дизель, АКПП, 4WD, 140 741 км", "link": "https://moscow.drom.ru/land_rover/range_rover_sport/51544593.html"},
+{"name": "Toyota Hilux, 2017", "price": "3 499 000 ₽", "description": "2.8 л (177 л.с.), дизель, АКПП, 4WD, 145 279 км", "link": "https://moscow.drom.ru/toyota/hilux_pick_up/51498518.html"},
+{"name": "Skoda Octavia, 2012", "price": "799 000 ₽", "description": "1.8 л (152 л.с.), бензин, АКПП, передний, 154 404 км", "link": "https://moscow.drom.ru/skoda/octavia/51518054.html"}, 
+{"name": "Mazda CX-9, 2017", "price": "2 399 000 ₽", "description": "2.5 л (231 л.с.), бензин, АКПП, 4WD, 95 676 км", "link": "https://moscow.drom.ru/mazda/cx-9/51518030.html"},
+{"name": "Audi A3, 2012", "price": "949 000 ₽", "description": "1.2 л (105 л.с.), бензин, робот, передний, 146 244 км", "link": "https://moscow.drom.ru/audi/a3/51287407.html"}, 
+{"name": "Opel Astra, 2012", "price": "699 000 ₽", "description": "1.6 л (115 л.с.), бензин, механика, передний, 137 141 км", "link": "https://moscow.drom.ru/opel/astra/50982526.html"}, 
+{"name": "Volkswagen Polo, 2012", "price": "719 000 ₽", "description": "1.6 л (105 л.с.), бензин, АКПП, передний, 133 172 км", "link": "https://moscow.drom.ru/volkswagen/polo/51236665.html"}
+]}
